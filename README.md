@@ -2,6 +2,8 @@
 
 Welcome to the Netflix EDA project! This repository contains a comprehensive exploratory data analysis of the Netflix dataset using Python. The goal is to uncover insights, trends, and patterns in Netflix's content library, including movies and TV shows.
 
+View the Project here https://rohilytics.github.io/Netflix-Content-Data-Analytics/
+
 ## 🧠 Project Objectives
 
 - Understand the structure and features of the Netflix dataset
