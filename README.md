@@ -32,7 +32,7 @@ The dataset used in this analysis contains information about Netflix titles such
 - NumPy
 - Matplotlib
 - Seaborn
-- WordCloud
+- Plotly
 
 ## 📈 Key Insights
 
@@ -66,7 +66,7 @@ The notebook includes a variety of charts and plots such as bar graphs, histogra
 
 - Integrate machine learning to predict viewer preferences
 - Compare Netflix data with competitors like Amazon Prime or Disney+
-- Dashboard development using tools like Streamlit or Tableau
+- Dashboard development using tools like Tableau
 
 ## 🤝 Contributing
 
