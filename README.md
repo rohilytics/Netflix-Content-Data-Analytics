@@ -66,6 +66,7 @@ The notebook includes a variety of charts and plots such as bar graphs, histogra
 
 ## 📌 Future Improvements
 
+- Perform more in depth analysis
 - Integrate machine learning to predict viewer preferences
 - Compare Netflix data with competitors like Amazon Prime or Disney+
 - Dashboard development using tools like Tableau
