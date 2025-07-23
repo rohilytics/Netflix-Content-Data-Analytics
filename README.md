@@ -41,7 +41,7 @@ The dataset used in this analysis contains information about Netflix titles such
 - The distribution of movies vs TV shows
 - Most active years for content addition
 - Popular genres and content ratings
-- Country-wise content production
+- Country-wise content productions
 - Duration patterns for movies and TV shows
 - Top contributing directors and actors
 
